@@ -1,0 +1,14 @@
+C:\Users\palanih\OneDrive - Perkins and Will\Documents\Conference\AEC Tech NYC 2025\AIsketch\bin\Debug\net7.0-windows\AIsketch.deps.json
+C:\Users\palanih\OneDrive - Perkins and Will\Documents\Conference\AEC Tech NYC 2025\AIsketch\bin\Debug\net7.0-windows\AIsketch.runtimeconfig.json
+C:\Users\palanih\OneDrive - Perkins and Will\Documents\Conference\AEC Tech NYC 2025\AIsketch\bin\Debug\net7.0-windows\AIsketch.rhp
+C:\Users\palanih\OneDrive - Perkins and Will\Documents\Conference\AEC Tech NYC 2025\AIsketch\bin\Debug\net7.0-windows\AIsketch.pdb
+C:\Users\palanih\OneDrive - Perkins and Will\Documents\Conference\AEC Tech NYC 2025\AIsketch\obj\Debug\net7.0-windows\AIsketch.csproj.AssemblyReference.cache
+C:\Users\palanih\OneDrive - Perkins and Will\Documents\Conference\AEC Tech NYC 2025\AIsketch\obj\Debug\net7.0-windows\AIsketch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\palanih\OneDrive - Perkins and Will\Documents\Conference\AEC Tech NYC 2025\AIsketch\obj\Debug\net7.0-windows\AIsketch.AssemblyInfoInputs.cache
+C:\Users\palanih\OneDrive - Perkins and Will\Documents\Conference\AEC Tech NYC 2025\AIsketch\obj\Debug\net7.0-windows\AIsketch.AssemblyInfo.cs
+C:\Users\palanih\OneDrive - Perkins and Will\Documents\Conference\AEC Tech NYC 2025\AIsketch\obj\Debug\net7.0-windows\AIsketch.csproj.CoreCompileInputs.cache
+C:\Users\palanih\OneDrive - Perkins and Will\Documents\Conference\AEC Tech NYC 2025\AIsketch\obj\Debug\net7.0-windows\AIsketch.rhp
+C:\Users\palanih\OneDrive - Perkins and Will\Documents\Conference\AEC Tech NYC 2025\AIsketch\obj\Debug\net7.0-windows\refint\AIsketch.rhp
+C:\Users\palanih\OneDrive - Perkins and Will\Documents\Conference\AEC Tech NYC 2025\AIsketch\obj\Debug\net7.0-windows\AIsketch.pdb
+C:\Users\palanih\OneDrive - Perkins and Will\Documents\Conference\AEC Tech NYC 2025\AIsketch\obj\Debug\net7.0-windows\AIsketch.genruntimeconfig.cache
+C:\Users\palanih\OneDrive - Perkins and Will\Documents\Conference\AEC Tech NYC 2025\AIsketch\obj\Debug\net7.0-windows\ref\AIsketch.rhp

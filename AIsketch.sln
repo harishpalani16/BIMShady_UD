@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36603.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIsketch", "AIsketch.csproj", "{068C35E0-8637-42E8-8CB3-EA21418E4B6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{068C35E0-8637-42E8-8CB3-EA21418E4B6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{068C35E0-8637-42E8-8CB3-EA21418E4B6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{068C35E0-8637-42E8-8CB3-EA21418E4B6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{068C35E0-8637-42E8-8CB3-EA21418E4B6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6E6B447-C61D-4FA5-8059-0D4D9D7A4A74}
+	EndGlobalSection
+EndGlobal
